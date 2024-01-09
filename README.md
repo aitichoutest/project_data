@@ -1,1 +1,1 @@
-"# project_data" 
+"Ce projet vise à détecter les couleurs dominantes dans des images données et à analyser la distribution des couleurs à des fins d'exploration visuelle. Il utilise des techniques de traitement d'images pour extraire les valeurs RVB des pixels, associant ensuite ces valeurs à des noms de couleurs prédéfinis. Le projet offre une interface utilisateur permettant aux utilisateurs de sélectionner une couleur dans une image à l'aide d'un double-clic, affichant ensuite le nom de cette couleur et ses informations associées." 
